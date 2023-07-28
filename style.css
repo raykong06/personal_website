@@ -18,6 +18,25 @@ nav {
 }
 
 #frontpageimg {
+    width: 674px;
+    height: 800px;
+    margin-top: 75px;
+}
+
+.maininfo {
+    display: inline-flex;
     margin: 100px;
-    width: 800px;
+}
+
+.frontpagetxt {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+}
+
+#header {
+    font-size: 64px;
+}
+
+#blurbinfo {
+    font-size: 36px;
 }
