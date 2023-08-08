@@ -11,10 +11,12 @@ nav {
     width: 200px;
 }
 
-#menu {
+.menu {
     color: whitesmoke;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 48px;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 #frontpageimg {
@@ -39,4 +41,15 @@ nav {
 
 #blurbinfo {
     font-size: 36px;
+}
+
+.contact_images {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+
+#contact_logo {
+    width: 400px;
+    height: 400px;
 }
